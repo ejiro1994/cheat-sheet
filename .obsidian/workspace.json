@@ -4,16 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "fdab0cf3c28c0e78",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cypress/DSA pole workbench tests.md",
-            "mode": "source",
-            "source": false
+        "id": "5ab4ca17411a73d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdab0cf3c28c0e78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cypress/DSA pole workbench tests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ab4eafea647ab27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Courses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83c2efe3dc7b9dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4887d870d0cc900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -31,7 +74,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cypress/DSA pole workbench tests.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cypress/DSA pole workbench tests.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cypress/DSA pole workbench tests.md"
+                "file": "Git.md"
               }
             }
           }
@@ -128,11 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fdab0cf3c28c0e78",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b4887d870d0cc900",
   "lastOpenFiles": [
-    "Cypress/Testing.md",
-    "React/Courses.md",
     "Focus.md",
-    "Git.md"
+    "Cypress/DSA pole workbench tests.md",
+    "React/React-router-dom.md",
+    "React/Courses.md",
+    "Authentication Issues.md",
+    "Git.md",
+    "Cypress/Testing.md"
   ]
 }
